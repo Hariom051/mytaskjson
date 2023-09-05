@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete Project Proposal",
+      "description": "Write and finalize the project proposal for the upcoming client presentation.",
+      "duedate": "2023-09-15",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Purchase items for the week: milk, eggs, bread, fruits, and vegetables.",
+      "duedate": "2023-08-30",
+      "priority": "Medium",
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "title": "Call Mom",
+      "description": "Give mom a call to catch up on recent events and family matters.",
+      "duedate": "2023-09-02",
+      "priority": "Low",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "title": "Prepare Presentation Slides",
+      "description": "Create slides for the upcoming team meeting about the new product features.",
+      "duedate": "2023-09-10",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "title": "Read Chapter 5",
+      "description": "Read and summarize Chapter 5 of the assigned book for the literature class.",
+      "duedate": "2023-08-28",
+      "priority": "Medium",
+      "status": "Pending"
+    },
+    {
+      "id": 6,
+      "title": "Pay Utility Bills",
+      "description": "Pay electricity, water, and internet bills for the current month.",
+      "duedate": "2023-09-05",
+      "priority": "High",
+      "status": "Pending"
+    },
+    {
+      "id": 7,
+      "title": "Gym Workout",
+      "description": "Hit the gym for a workout session to stay fit and healthy.",
+      "duedate": "2023-08-31",
+      "priority": "Medium",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "title": "Write Blog Post",
+      "description": "Compose a blog post on the topic of 'Effective Time Management.'",
+      "duedate": "2023-09-08",
+      "priority": "Medium",
+      "status": "Pending"
+    },
+    {
+      "id": 9,
+      "title": "Plan Weekend Getaway",
+      "description": "Research and plan a weekend getaway trip to a nearby scenic location.",
+      "duedate": "2023-09-01",
+      "priority": "Low",
+      "status": "Pending"
+    },
+    {
+      "id": 10,
+      "title": "Submit Expense Report",
+      "description": "Compile and submit the monthly expense report with all relevant receipts.",
+      "duedate": "2023-09-07",
+      "priority": "High",
+      "status": "Pending"
+    }
+  ]
+}
